@@ -32,7 +32,7 @@ export function Preview() {
   const wrapRef = useRef<HTMLDivElement>(null);
   const canvasRef = useRef<HTMLCanvasElement>(null);
   const [size, setSize] = useState({ w: 0, h: 0 });
-  const [time, setTime] = useState(player.time);
+  const [, setTick] = useState(0);
   const [guides, setGuides] = useState<{ v: boolean; h: boolean }>({ v: false, h: false });
   const aspect = FORMATS[project.format].aspect;
   const pointers = useRef(new Map<number, Pt>());
@@ -92,7 +92,7 @@ export function Preview() {
       const k = activeTexts(p, t).map((x) => x.id).join(',') + (slotAt(videoLayout(p), t)?.clip.id ?? '');
       if (k !== key) {
         key = k;
-        setTime(t);
+        setTick((n) => n + 1);
       }
     });
   }, []);
@@ -101,8 +101,10 @@ export function Preview() {
   const canvasW = canvasRef.current?.width ?? 1;
   const scale = size.w / canvasW; // css px per canvas px
 
+  // Re-rendered when the visible texts change; the player holds the exact current time.
+  const now = player.time;
   const selectedText =
-    selection?.type === 'text' ? project.texts.find((x) => x.id === selection.id && time >= x.start && time < textEnd(x)) ?? null : null;
+    selection?.type === 'text' ? project.texts.find((x) => x.id === selection.id && now >= x.start && now < textEnd(x)) ?? null : null;
 
   const box = useMemo(() => {
     if (!selectedText || !ctx || !canvasRef.current) return null;
@@ -312,8 +314,8 @@ export function Preview() {
             style={{
               left: box.cx,
               top: box.cy,
-              width: box.w + 12,
-              height: box.h + 8,
+              width: box.w + 28,
+              height: box.h + 18,
               transform: `translate(-50%, -50%) rotate(${box.rotation}rad)`,
             }}
           >
