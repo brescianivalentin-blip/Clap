@@ -1,0 +1,386 @@
+{
+ "version": 1,
+ "license": "CC0-1.0",
+ "tracks": [
+  {
+   "id": "happy-whistling-ukulele",
+   "title": "Happy Whistling Ukulele",
+   "artist": "FreePD",
+   "mood": "Joyeux",
+   "duration": 123.4,
+   "file": "happy-whistling-ukulele.m4a",
+   "license": "CC0-1.0",
+   "source": "FreePD (freepd.com), domaine public CC0"
+  },
+  {
+   "id": "ukulele-song",
+   "title": "Ukulele Song",
+   "artist": "FreePD",
+   "mood": "Joyeux",
+   "duration": 138.8,
+   "file": "ukulele-song.m4a",
+   "license": "CC0-1.0",
+   "source": "FreePD (freepd.com), domaine public CC0"
+  },
+  {
+   "id": "city-sunshine",
+   "title": "City Sunshine",
+   "artist": "FreePD",
+   "mood": "Joyeux",
+   "duration": 185.0,
+   "file": "city-sunshine.m4a",
+   "license": "CC0-1.0",
+   "source": "FreePD (freepd.com), domaine public CC0"
+  },
+  {
+   "id": "funshine",
+   "title": "Funshine",
+   "artist": "FreePD",
+   "mood": "Joyeux",
+   "duration": 165.1,
+   "file": "funshine.m4a",
+   "license": "CC0-1.0",
+   "source": "FreePD (freepd.com), domaine public CC0"
+  },
+  {
+   "id": "be-chillin",
+   "title": "Be Chillin",
+   "artist": "FreePD",
+   "mood": "Joyeux",
+   "duration": 202.6,
+   "file": "be-chillin.m4a",
+   "license": "CC0-1.0",
+   "source": "FreePD (freepd.com), domaine public CC0"
+  },
+  {
+   "id": "and-just-like-that",
+   "title": "And Just Like That",
+   "artist": "FreePD",
+   "mood": "Joyeux",
+   "duration": 114.3,
+   "file": "and-just-like-that.m4a",
+   "license": "CC0-1.0",
+   "source": "FreePD (freepd.com), domaine public CC0"
+  },
+  {
+   "id": "inspiration",
+   "title": "Inspiration",
+   "artist": "FreePD",
+   "mood": "Joyeux",
+   "duration": 138.4,
+   "file": "inspiration.m4a",
+   "license": "CC0-1.0",
+   "source": "FreePD (freepd.com), domaine public CC0"
+  },
+  {
+   "id": "pickled-pink",
+   "title": "Pickled Pink",
+   "artist": "FreePD",
+   "mood": "Joyeux",
+   "duration": 175.3,
+   "file": "pickled-pink.m4a",
+   "license": "CC0-1.0",
+   "source": "FreePD (freepd.com), domaine public CC0"
+  },
+  {
+   "id": "silly-intro",
+   "title": "Silly Intro",
+   "artist": "FreePD",
+   "mood": "Joyeux",
+   "duration": 24.9,
+   "file": "silly-intro.m4a",
+   "license": "CC0-1.0",
+   "source": "FreePD (freepd.com), domaine public CC0"
+  },
+  {
+   "id": "spring-chicken",
+   "title": "Spring Chicken",
+   "artist": "FreePD",
+   "mood": "Joyeux",
+   "duration": 167.0,
+   "file": "spring-chicken.m4a",
+   "license": "CC0-1.0",
+   "source": "FreePD (freepd.com), domaine public CC0"
+  },
+  {
+   "id": "sunset-offbeat",
+   "title": "Sunset Offbeat",
+   "artist": "Open Lo-Fi",
+   "mood": "Chill",
+   "duration": 159.0,
+   "file": "sunset-offbeat.m4a",
+   "license": "CC0-1.0",
+   "source": "Open Lo-Fi (github.com/btahir/open-lofi), domaine public CC0"
+  },
+  {
+   "id": "window-seat-daydream",
+   "title": "Window Seat Daydream",
+   "artist": "Open Lo-Fi",
+   "mood": "Chill",
+   "duration": 140.0,
+   "file": "window-seat-daydream.m4a",
+   "license": "CC0-1.0",
+   "source": "Open Lo-Fi (github.com/btahir/open-lofi), domaine public CC0"
+  },
+  {
+   "id": "porchlight-golden-hour",
+   "title": "Porchlight Golden Hour",
+   "artist": "Open Lo-Fi",
+   "mood": "Chill",
+   "duration": 129.9,
+   "file": "porchlight-golden-hour.m4a",
+   "license": "CC0-1.0",
+   "source": "Open Lo-Fi (github.com/btahir/open-lofi), domaine public CC0"
+  },
+  {
+   "id": "soft-gold-sky",
+   "title": "Soft Gold Sky",
+   "artist": "Open Lo-Fi",
+   "mood": "Chill",
+   "duration": 143.0,
+   "file": "soft-gold-sky.m4a",
+   "license": "CC0-1.0",
+   "source": "Open Lo-Fi (github.com/btahir/open-lofi), domaine public CC0"
+  },
+  {
+   "id": "glow-on-the-overpass",
+   "title": "Glow on the Overpass",
+   "artist": "Open Lo-Fi",
+   "mood": "Chill",
+   "duration": 160.0,
+   "file": "glow-on-the-overpass.m4a",
+   "license": "CC0-1.0",
+   "source": "Open Lo-Fi (github.com/btahir/open-lofi), domaine public CC0"
+  },
+  {
+   "id": "summer-curbside-glow",
+   "title": "Summer Curbside Glow",
+   "artist": "Open Lo-Fi",
+   "mood": "Chill",
+   "duration": 144.7,
+   "file": "summer-curbside-glow.m4a",
+   "license": "CC0-1.0",
+   "source": "Open Lo-Fi (github.com/btahir/open-lofi), domaine public CC0"
+  },
+  {
+   "id": "roller-rink-reverie",
+   "title": "Roller Rink Reverie",
+   "artist": "Open Lo-Fi",
+   "mood": "Chill",
+   "duration": 125.0,
+   "file": "roller-rink-reverie.m4a",
+   "license": "CC0-1.0",
+   "source": "Open Lo-Fi (github.com/btahir/open-lofi), domaine public CC0"
+  },
+  {
+   "id": "golden-afternoon-groove",
+   "title": "Golden Afternoon Groove",
+   "artist": "Open Lo-Fi",
+   "mood": "Chill",
+   "duration": 155.7,
+   "file": "golden-afternoon-groove.m4a",
+   "license": "CC0-1.0",
+   "source": "Open Lo-Fi (github.com/btahir/open-lofi), domaine public CC0"
+  },
+  {
+   "id": "breezy-afternoon-terrace",
+   "title": "Breezy Afternoon Terrace",
+   "artist": "Open Lo-Fi",
+   "mood": "Chill",
+   "duration": 89.9,
+   "file": "breezy-afternoon-terrace.m4a",
+   "license": "CC0-1.0",
+   "source": "Open Lo-Fi (github.com/btahir/open-lofi), domaine public CC0"
+  },
+  {
+   "id": "first-coffee-thoughts",
+   "title": "First Coffee Thoughts",
+   "artist": "Open Lo-Fi",
+   "mood": "Chill",
+   "duration": 94.7,
+   "file": "first-coffee-thoughts.m4a",
+   "license": "CC0-1.0",
+   "source": "Open Lo-Fi (github.com/btahir/open-lofi), domaine public CC0"
+  },
+  {
+   "id": "pancakes-in-the-sun",
+   "title": "Pancakes in the Sun",
+   "artist": "Open Lo-Fi",
+   "mood": "Chill",
+   "duration": 107.7,
+   "file": "pancakes-in-the-sun.m4a",
+   "license": "CC0-1.0",
+   "source": "Open Lo-Fi (github.com/btahir/open-lofi), domaine public CC0"
+  },
+  {
+   "id": "sunrise-stretch-flow",
+   "title": "Sunrise Stretch Flow",
+   "artist": "Open Lo-Fi",
+   "mood": "Chill",
+   "duration": 189.1,
+   "file": "sunrise-stretch-flow.m4a",
+   "license": "CC0-1.0",
+   "source": "Open Lo-Fi (github.com/btahir/open-lofi), domaine public CC0"
+  },
+  {
+   "id": "backbeat",
+   "title": "Backbeat",
+   "artist": "FreePD",
+   "mood": "Énergique",
+   "duration": 46.3,
+   "file": "backbeat.m4a",
+   "license": "CC0-1.0",
+   "source": "FreePD (freepd.com), domaine public CC0"
+  },
+  {
+   "id": "beat-one",
+   "title": "Beat One",
+   "artist": "FreePD",
+   "mood": "Énergique",
+   "duration": 180.0,
+   "file": "beat-one.m4a",
+   "license": "CC0-1.0",
+   "source": "FreePD (freepd.com), domaine public CC0"
+  },
+  {
+   "id": "hippety-hop",
+   "title": "Hippety Hop",
+   "artist": "FreePD",
+   "mood": "Énergique",
+   "duration": 116.7,
+   "file": "hippety-hop.m4a",
+   "license": "CC0-1.0",
+   "source": "FreePD (freepd.com), domaine public CC0"
+  },
+  {
+   "id": "fireworks",
+   "title": "Fireworks",
+   "artist": "FreePD",
+   "mood": "Énergique",
+   "duration": 191.0,
+   "file": "fireworks.m4a",
+   "license": "CC0-1.0",
+   "source": "FreePD (freepd.com), domaine public CC0"
+  },
+  {
+   "id": "favorite",
+   "title": "Favorite",
+   "artist": "FreePD",
+   "mood": "Énergique",
+   "duration": 175.1,
+   "file": "favorite.m4a",
+   "license": "CC0-1.0",
+   "source": "FreePD (freepd.com), domaine public CC0"
+  },
+  {
+   "id": "lovely-piano-song",
+   "title": "Lovely Piano Song",
+   "artist": "FreePD",
+   "mood": "Doux",
+   "duration": 95.9,
+   "file": "lovely-piano-song.m4a",
+   "license": "CC0-1.0",
+   "source": "FreePD (freepd.com), domaine public CC0"
+  },
+  {
+   "id": "nostalgic-piano",
+   "title": "Nostalgic Piano",
+   "artist": "FreePD",
+   "mood": "Doux",
+   "duration": 196.4,
+   "file": "nostalgic-piano.m4a",
+   "license": "CC0-1.0",
+   "source": "FreePD (freepd.com), domaine public CC0"
+  },
+  {
+   "id": "romantic-inspiration",
+   "title": "Romantic Inspiration",
+   "artist": "FreePD",
+   "mood": "Doux",
+   "duration": 149.8,
+   "file": "romantic-inspiration.m4a",
+   "license": "CC0-1.0",
+   "source": "FreePD (freepd.com), domaine public CC0"
+  },
+  {
+   "id": "champ-de-tournesol",
+   "title": "Champ de tournesol",
+   "artist": "FreePD",
+   "mood": "Doux",
+   "duration": 118.0,
+   "file": "champ-de-tournesol.m4a",
+   "license": "CC0-1.0",
+   "source": "FreePD (freepd.com), domaine public CC0"
+  },
+  {
+   "id": "slow-dance-in-the-living-room",
+   "title": "Slow Dance in the Living Room",
+   "artist": "Open Lo-Fi",
+   "mood": "Doux",
+   "duration": 96.5,
+   "file": "slow-dance-in-the-living-room.m4a",
+   "license": "CC0-1.0",
+   "source": "Open Lo-Fi (github.com/btahir/open-lofi), domaine public CC0"
+  },
+  {
+   "id": "sunny-rasta",
+   "title": "Sunny Rasta",
+   "artist": "FreePD",
+   "mood": "Voyage",
+   "duration": 140.2,
+   "file": "sunny-rasta.m4a",
+   "license": "CC0-1.0",
+   "source": "FreePD (freepd.com), domaine public CC0"
+  },
+  {
+   "id": "le-baguette",
+   "title": "Le Baguette",
+   "artist": "FreePD",
+   "mood": "Voyage",
+   "duration": 54.0,
+   "file": "le-baguette.m4a",
+   "license": "CC0-1.0",
+   "source": "FreePD (freepd.com), domaine public CC0"
+  },
+  {
+   "id": "bollywood-groove",
+   "title": "Bollywood Groove",
+   "artist": "FreePD",
+   "mood": "Voyage",
+   "duration": 150.1,
+   "file": "bollywood-groove.m4a",
+   "license": "CC0-1.0",
+   "source": "FreePD (freepd.com), domaine public CC0"
+  },
+  {
+   "id": "cafe-da-tarde",
+   "title": "Cafe Da Tarde",
+   "artist": "Open Lo-Fi",
+   "mood": "Voyage",
+   "duration": 109.5,
+   "file": "cafe-da-tarde.m4a",
+   "license": "CC0-1.0",
+   "source": "Open Lo-Fi (github.com/btahir/open-lofi), domaine public CC0"
+  },
+  {
+   "id": "savanna-slow-glow",
+   "title": "Savanna Slow Glow",
+   "artist": "Open Lo-Fi",
+   "mood": "Voyage",
+   "duration": 174.8,
+   "file": "savanna-slow-glow.m4a",
+   "license": "CC0-1.0",
+   "source": "Open Lo-Fi (github.com/btahir/open-lofi), domaine public CC0"
+  },
+  {
+   "id": "nomadic-sunset",
+   "title": "Nomadic Sunset",
+   "artist": "FreePD",
+   "mood": "Voyage",
+   "duration": 190.7,
+   "file": "nomadic-sunset.m4a",
+   "license": "CC0-1.0",
+   "source": "FreePD (freepd.com), domaine public CC0"
+  }
+ ]
+}

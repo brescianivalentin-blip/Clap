@@ -1,0 +1,41 @@
+{
+  "name": "clap",
+  "private": true,
+  "version": "0.0.0",
+  "type": "module",
+  "scripts": {
+    "dev": "vite",
+    "build": "tsc -b && vite build",
+    "lint": "oxlint",
+    "preview": "vite preview"
+  },
+  "dependencies": {
+    "@fontsource/anton": "^5.3.0",
+    "@fontsource/caveat": "^5.3.0",
+    "@fontsource/fredoka": "^5.3.0",
+    "@fontsource/montserrat": "^5.3.0",
+    "@fontsource/pacifico": "^5.3.0",
+    "@fontsource/permanent-marker": "^5.3.0",
+    "@fontsource/playfair-display": "^5.3.0",
+    "@fontsource/righteous": "^5.3.0",
+    "@fontsource/special-elite": "^5.3.0",
+    "@fontsource/tiktok-sans": "^5.3.0",
+    "@mediabunny/aac-encoder": "^1.65.2",
+    "idb": "^8.0.4",
+    "lucide-react": "^1.72.0",
+    "mediabunny": "^1.65.2",
+    "react": "^19.3.1",
+    "react-dom": "^19.3.1",
+    "zustand": "^5.1.0"
+  },
+  "devDependencies": {
+    "@types/node": "^24.19.2",
+    "@types/react": "^19.3.0",
+    "@types/react-dom": "^19.3.0",
+    "@vitejs/plugin-react": "^6.1.2",
+    "oxlint": "^1.90.0",
+    "typescript": "~7.0.2",
+    "vite": "^8.3.6",
+    "vite-plugin-pwa": "^2.0.0"
+  }
+}
